@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-if __name__ == "___main__":
+if __name__ == "__main__":
     '''
         Doing Maths after importing functions from a file
         and printing the result
