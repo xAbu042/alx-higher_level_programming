@@ -2,7 +2,7 @@
 
 def safe_print_integer(value):
     """
-    Prints an integer with 
+    Prints an integer with
     "{:d}".format()
     """
     try:
